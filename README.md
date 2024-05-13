@@ -1,6 +1,6 @@
 ![landing-page-congresso-bh](https://github.com/ViniciusRodrigues10/landing_page_congresso_bh/assets/76957963/026674ef-b970-4de4-bee4-2715381a357c)
 
-<h1 align="center">Landing Page para Congresso BH</h1>
+<h1 align="center">Landing Page Congresso BH</h1>
 
 <p align="center">Esta é uma landing page desenvolvida para promover um congresso. Ela oferece informações essenciais sobre o evento, incluindo detalhes sobre os palestrantes, agenda, registro e localização. Desenvolvida com HTML, CSS e JavaScript, a página foi projetada para fornecer uma experiência informativa e envolvente para os participantes em potencial.</p>
 <br/>
